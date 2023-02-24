@@ -1,0 +1,15 @@
+.Mysocialmedia{
+background-color: blueviolet;
+height: 150px;
+width: 670px;
+margin-left:200px;
+border-radius: 15px;
+bottom: 10px;
+}
+.twitter{
+    border-radius: 15px;
+    background-color: black;
+}
+body{
+    background-color: rgb(153, 112, 192);
+}
